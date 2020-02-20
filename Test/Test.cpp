@@ -18,4 +18,5 @@ int main()
 	//angleHorizon();
 	//powButHow();
 	//fabsForDouble();
+	[eq]
 }
